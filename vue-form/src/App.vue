@@ -20,6 +20,7 @@ export default {
     return {
       username: '',
       password: '',
+      // 깃헙 테스트
     }
   },
   methods: {
